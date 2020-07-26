@@ -44,7 +44,7 @@
     "js-beautify": "^1.11.0",
     "jsdom": "16.2.2",
     "prettier": "2.0.5",
-    "rollup": "2.18.1",
+    "rollup": "2.23.0",
     "rollup-plugin-terser": "6",
     "tape": "5.0.0"
   }
